@@ -1,5 +1,7 @@
 # Payment service
 
+This repository forked from https://gitlab.com/nhayhoc/payment-service
+
 # Mục đích
 
 - Free 100%
